@@ -2,6 +2,7 @@
 <services>
     <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
         <servicesKeys>
+            <keyDetails collectionKey="services:salesForce53Service" connectorServiceName="services:salesForce53Service"/>
             <keyDetails collectionKey="services_1:salesForce51Service" connectorServiceName="services_1:salesForce51Service"/>
         </servicesKeys>
     </cloudstreamsCollectionKeys>
